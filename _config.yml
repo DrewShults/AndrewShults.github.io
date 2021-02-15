@@ -37,7 +37,8 @@ roles:
    start: 2019
    end: 2020
    employer: Watthour Engineering 
-   description: -Software based IT support for multiple applications used to test electronic meter hardware for accuracy.
+   description: 
+   -Software based IT support for multiple applications used to test electronic meter hardware for accuracy.
    -Daily SCRUM regarding new software releases.
    -Save, back up, edit and copy customer databases in Microsoft SQL Management Studio.
    -Convert older Sybase databases into new SQL Databases.
