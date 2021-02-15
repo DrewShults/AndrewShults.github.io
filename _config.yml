@@ -37,28 +37,27 @@ roles:
    start: 2019
    end: 2020
    employer: Watthour Engineering 
-   description: 
-   -Software based IT support for multiple applications used to test electronic meter hardware for accuracy.
-   -Daily SCRUM regarding new software releases.
-   -Save, back up, edit and copy customer databases in Microsoft SQL Management Studio.
-   -Convert older Sybase databases into new SQL Databases.
-   -Write and execute queries for customer databases in Microsoft SQL Management Studio.
-   -Troubleshoot customer issues with databases/software by evaluating SQL tables, looking at code
+   description: - Software based IT support for multiple applications used to test electronic meter hardware for accuracy.
+   - Daily SCRUM regarding new software releases.
+   - Save, back up, edit and copy customer databases in Microsoft SQL Management Studio.
+   - Convert older Sybase databases into new SQL Databases.
+   - Write and execute queries for customer databases in Microsoft SQL Management Studio.
+   - Troubleshoot customer issues with databases/software by evaluating SQL tables, looking at code
    based errors, and going through debug files.
-   -Test code to fix software issues.
-   -Work in Azure DevOps TFS within Visual Studio.
-   -Creating, importing, and exporting data views for customer use within meter testing software.
+   - Test code to fix software issues.
+   - Work in Azure DevOps TFS within Visual Studio.
+   - Creating, importing, and exporting data views for customer use within meter testing software.
 (Customer tells me what they want their data view to look like then I design it.).
-   -Document customer software issues, keep track of them and communicate with team using Jira and Salesforce.
-   -Resolve customer software and database issues.
-   -Data verification and checks for inconsistencies.
-   -Create new server instances and create remote server instances while assigning permission levels.
-   -Assist customer with installing and setting up their Databases.
-   -Evaluate customer needs regarding functionality and create software enhancement requests.
-   -Involvement in the entire software development process from start, finish, to support.
-   -Excellence in Customer Service.
-   -Assign, create, and document software license keys.
-   -Experience working remotely throughout the Coronavirus pandemic.
+   - Document customer software issues, keep track of them and communicate with team using Jira and Salesforce.
+   - Resolve customer software and database issues.
+   - Data verification and checks for inconsistencies.
+   - Create new server instances and create remote server instances while assigning permission levels.
+   - Assist customer with installing and setting up their Databases.
+   - Evaluate customer needs regarding functionality and create software enhancement requests.
+   - Involvement in the entire software development process from start, finish, to support.
+   - Excellence in Customer Service.
+   - Assign, create, and document software license keys.
+   - Experience working remotely throughout the Coronavirus pandemic.
 
 
 #Education is required
