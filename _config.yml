@@ -33,7 +33,7 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Associate Manager
+ - title: Software Engineer
    start: 2005
    end: 2012
    employer:
