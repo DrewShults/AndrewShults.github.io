@@ -33,11 +33,14 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+ - title: Software Specialist
+   start: 2020
+   end: 2021
+   employer: Watthour Engineering
+   description: Engineering company that creates the Software and Hardware to test electronic meters for accuracy. My job consisted of management over Wattnet Basic - Express software suites for customer electronic meter accuracy testing Software in production. Software based IT support for multiple applications used to test electronic meter hardware for
+   accuracy. Experience with Legacy software systems, getting those upgraded, configuring drivers and fixing broken things. Daily SCRUM for Software. Save, back up, edit and copy customer databases in Microsoft SQL Management Studio. Convert older Sybase databases into new SQL Databases. Write and execute queries for customer databases in Microsoft SQL Management Studio. Troubleshoot customer issues with databases/software by evaluating SQL tables, looking at code
+   based errors, and going through debug files. Test code to fix software issues. Work in Azure DevOps TFS. Visual Studio 2017-2019. SQL Server Management Studio 2008-2020. Creating, importing, and exporting data views for customer use within meter testing software.
+   (Customer tells me what they want their data view to look like then I design it.). Document customer software issues, keep track of them and communicate with team using Jira, Salesforce, and teams. Resolve customer software and database issues. Data verification and checks for inconsistencies. Create new server instances and create remote server instances while assigning permission levels. Assist customer with installing and setting up their Databases. Evaluate customer needs regarding functionality and create software enhancement requests. Involvement in the entire software development process from start, finish, to support. Excellence in Customer Service. Assign, create, and document software license keys. Edit code in order to manipulate data. Experience working remotely throughout the Coronavirus pandemic. 
  - title: Senior Engineer
    start: 2016
    end: 2017
